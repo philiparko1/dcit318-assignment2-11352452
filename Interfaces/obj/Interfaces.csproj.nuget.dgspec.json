@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\Interfaces\\Interfaces.csproj": {}
+    "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\interfaces\\Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\Interfaces\\Interfaces.csproj": {
+    "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\Interfaces\\Interfaces.csproj",
+        "projectPath": "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

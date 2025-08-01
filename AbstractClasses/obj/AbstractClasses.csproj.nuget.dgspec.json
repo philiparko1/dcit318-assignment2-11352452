@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\AbstractClasses\\AbstractClasses.csproj": {}
+    "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\abstractclasses\\AbstractClasses.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\AbstractClasses\\AbstractClasses.csproj": {
+    "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\abstractclasses\\AbstractClasses.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\AbstractClasses\\AbstractClasses.csproj",
+        "projectUniqueName": "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\abstractclasses\\AbstractClasses.csproj",
         "projectName": "AbstractClasses",
-        "projectPath": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\AbstractClasses\\AbstractClasses.csproj",
+        "projectPath": "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\abstractclasses\\AbstractClasses.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\AbstractClasses\\obj\\",
+        "outputPath": "C:\\Users\\User\\github repo\\dcit318-assignment2-11352452\\abstractclasses\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

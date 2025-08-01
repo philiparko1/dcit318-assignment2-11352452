@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\InheritanceAndOverriding\\InheritanceAndOverriding.csproj": {}
+    "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\inheritanceandoverriding\\InheritanceAndOverriding.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\InheritanceAndOverriding\\InheritanceAndOverriding.csproj": {
+    "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\inheritanceandoverriding\\InheritanceAndOverriding.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\InheritanceAndOverriding\\InheritanceAndOverriding.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\inheritanceandoverriding\\InheritanceAndOverriding.csproj",
         "projectName": "InheritanceAndOverriding",
-        "projectPath": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\InheritanceAndOverriding\\InheritanceAndOverriding.csproj",
+        "projectPath": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\inheritanceandoverriding\\InheritanceAndOverriding.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\InheritanceAndOverriding\\obj\\",
+        "outputPath": "C:\\Users\\User\\Github Repo\\dcit318-assignment2-11352452\\inheritanceandoverriding\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

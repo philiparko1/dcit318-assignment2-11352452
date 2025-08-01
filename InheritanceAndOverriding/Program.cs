@@ -18,8 +18,8 @@ class Program {
         Dog dog = new Dog();
         Cat cat = new Cat();
 
-        generic.MakeSound(); // Some generic sound
-        dog.MakeSound();     // Bark
-        cat.MakeSound();     // Meow
+        generic.MakeSound(); 
+        dog.MakeSound();     
+        cat.MakeSound();     
     }
 }
